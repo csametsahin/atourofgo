@@ -1,0 +1,13 @@
+go 1.21.6
+
+use ./nakedreturn
+
+use ./swapwithgo
+
+use ./definevariables
+
+use ./typeswithgo
+
+use ./typeconversionswithgo
+
+use ./constantswithgo
