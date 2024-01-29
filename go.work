@@ -11,3 +11,13 @@ use ./typeswithgo
 use ./typeconversionswithgo
 
 use ./constantswithgo
+
+use ./forloopwithgo
+
+use ./ifconditions
+
+use ./exercise-1-loopsandfunctions
+
+use ./switchstatement
+
+use ./deferkey
