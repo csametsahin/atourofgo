@@ -21,3 +21,11 @@ use ./exercise-1-loopsandfunctions
 use ./switchstatement
 
 use ./deferkey
+
+use ./pointers
+
+use ./structs
+
+use ./arrays
+
+use ./slices
