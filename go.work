@@ -29,3 +29,23 @@ use ./structs
 use ./arrays
 
 use ./slices
+
+use ./sliceliterals
+
+use ./slicelengthandcapacity
+
+use ./make-slice
+
+use ./append-slice
+
+use ./range
+
+use ./exercise-2-slices
+
+use ./maps
+
+use ./exercise-3-wordcount
+
+use ./functionswithgo
+
+use ./exercise-4-fibonacciclosure
